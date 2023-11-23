@@ -40,6 +40,11 @@ Our hotel reservation chatbot, named HotRes Bot, is a unique AI-powered bot desi
 - Reliable transactions
 - No need for middlemen
 
+## Technologies Used
+- Dialogflow: A natural language processing platform for building conversational interfaces.
+- Firebase: A cloud-based database used for storing and retrieving booking information.
+- Telegram API: Integration with Telegram for chatbot interactions.
+
 ## Telegram 
 ![Simulation1](https://github.com/husynmujtaba/Hotel-Booking-Chatbot-with-Dialogflow/blob/main/Simulation1.png)
 ![Simulation2](https://github.com/husynmujtaba/Hotel-Booking-Chatbot-with-Dialogflow/blob/main/Simulation2.png)
